@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=marceloriv&icon=0&color=0" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=marceloriv&color=blue" alt="Contador de visitas" />
 </p>
