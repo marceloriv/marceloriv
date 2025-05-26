@@ -59,10 +59,11 @@
 
 ---
 
-<h2 align="left">🔝 Repositorios destacados:</h2>
+<!-- <h2 align="left">🔝 Repositorios destacados:</h2>
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=marceloriv&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorios destacados" />
-</p>
+</p> -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloriv&repo=OrganizadorArhivos&theme=dark" alt="Repositorio destacado" />
 
 ---
 
