@@ -40,6 +40,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marceloriv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas de GitHub" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=marceloriv&theme=dark&hide_border=false" alt="Racha de contribuciones" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloriv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados" />
 </p>
 
@@ -56,15 +57,6 @@
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Frase inspiradora" />
 </p>
-
----
-
-<!-- <h2 align="left">🔝 Repositorios destacados:</h2>
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=marceloriv&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorios destacados" />
-</p> -->
-<h2 align="left">🔝 Repositorios destacados:</h2>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloriv&repo=OrganizadorArhivos&theme=dark" alt="Repositorio destacado" />
 
 ---
 
