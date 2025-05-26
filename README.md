@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Marcelo</h1>
+<h3 align="center">Un estudiante apasionado por la tecnología y el desarrollo de software</h3>
 
-<!--
-**marceloriv/marceloriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2 align="left">🌐 Conéctate conmigo:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/riveramarcelo288" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/marceloriv" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="mailto:ma.riveracontreras@duocuc.cl" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 align="left">🛠️ Lenguajes y Herramientas:</h2>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h2 align="left">📊 Estadísticas de GitHub:</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=marceloriv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas de GitHub" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=marceloriv&theme=dark&hide_border=false" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloriv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados" />
+</p>
+
+---
+
+<h2 align="left">🏆 Logros en GitHub:</h2>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=marceloriv&theme=monokai&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos de GitHub" />
+</p>
+
+---
+
+<h2 align="left">✍️ Frase inspiradora:</h2>
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Frase inspiradora" />
+</p>
+
+---
+
+<h2 align="left">🔝 Repositorios destacados:</h2>
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=marceloriv&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorios destacados" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=marceloriv&icon=0&color=0" alt="Contador de visitas" />
+</p>
