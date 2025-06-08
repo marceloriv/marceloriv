@@ -4,7 +4,7 @@
 ---
 
 <h2 align="left">🌐 Conéctate conmigo:</h2>
-<ul style="list-style: none; display: flex; padding: 0; margin: 0;">
+<ul style="list-style: none; display: flex; gap: 10px; padding: 0; margin: 0;">
   <li>
     <a href="https://www.linkedin.com/in/riveramarcelo288" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
