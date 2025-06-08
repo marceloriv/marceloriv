@@ -4,11 +4,11 @@
 ---
 
 <h2 align="left">🌐 Conéctate conmigo:</h2>
-<p align="left">
+<p align="left" style="display: flex; gap: 0;">
   <a href="https://www.linkedin.com/in/riveramarcelo288" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a><!--
-  --><a href="mailto:ma.riveracontreras@duocuc.cl" target="_blank" rel="noreferrer">
+  </a>
+  <a href="mailto:ma.riveracontreras@duocuc.cl" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
