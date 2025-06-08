@@ -15,7 +15,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
-
 ---
 
 <h2 align="left">🛠️ Lenguajes y Herramientas:</h2>
